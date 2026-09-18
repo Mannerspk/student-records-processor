@@ -61,7 +61,6 @@ node student-records-processor.js
 
 When you run the script, you'll see output similar to:
 
-```
 === Student Records Data Processor ===
 
 Total Students: 28
@@ -73,27 +72,6 @@ Top 3 Students by Average Grade:
   3. Kassandra .B - 86.75
 
 ... (more analysis)
-```
-
-## 📸 Screenshots
-
-Add screenshots or GIFs here to demonstrate the application's output and functionality.
-
-### How to add screenshots:
-
-1. Create a `screenshots` directory in your project root
-2. Add your screenshot files there (e.g., `screenshots/sample-output.png`)
-3. Use the following markdown syntax to embed them:
-
-```markdown
-![Sample Console Output](screenshots/sample-output.png)
-![Report JSON Example](screenshots/report-example.png)
-```
-
-### Suggested screenshots to include:
-- Console output showing the analysis
-- The generated report.json file
-- Side-by-side comparison of input vs. output
 
 ## 🔧 Configuration
 
