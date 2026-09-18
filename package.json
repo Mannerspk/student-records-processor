@@ -1,0 +1,14 @@
+{
+  "name": "student-records-processor",
+  "version": "1.0.0",
+  "description": "A simple and efficient system for managing and processing student records",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node student-records-processor.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["student", "records", "data processing", "javascript"],
+  "author": "Mannerspk",
+  "license": "MIT"
+}
